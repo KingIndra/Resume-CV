@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^22.8.0"
+  }
 }
